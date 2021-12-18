@@ -1,0 +1,35 @@
+h1{
+	font-family: "Times New Roman"; 
+	font-size: 60px;
+	color: whitesmoke;
+}
+
+
+h2{
+	font-family: "Times New Roman"; 
+	color: mediumpurple;
+	font-size: 36px;
+}
+
+p{
+	font-family: "Times New Roman"; 
+	font-size: 8px;
+	color: white;
+}
+
+
+html
+	{background-color: black}
+
+a.class1:link, a.class1:visited{
+  text-decoration: none;
+  color: whitesmoke;
+  background-color: darkred;
+  font-size: 24px;
+}
+
+a.class2:link, a.class2:visited{
+	text-decoration: none;
+	color: mediumpurple;
+}
+
